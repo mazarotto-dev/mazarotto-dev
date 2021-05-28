@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 - 🤑 Dono do servidor de Minecraft MercuryMC ...
 - 🤗 Veja todas as minhas redes sociais e do MercuryMC no link da biografia.
 
+👽 Todas as minhas redes sociais:
+
+![QRCode_Fácil](https://user-images.githubusercontent.com/31974724/120039587-90063100-bfdb-11eb-813f-7e9c48bbe9e7.png)
