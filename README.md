@@ -1,5 +1,5 @@
-### Hi There! 👋
-
+<!-- ### Hi There! 👋
+-->
 <!--
 **mazarottoo/mazarottoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, seja bem vindo ao meu perfil!
+# Olá, seja bem vindo ao meu perfil! 👋
 
-Meu nome é Julio...
+😝 Meu nome é Julio e ...
 
 - 👽 Sou iniciante nesse mundo da programação ...
 - 🤔 Atualmente aprendendo a linguagen de programação Java Script ...
@@ -26,4 +26,3 @@ Meu nome é Julio...
 - 🤑 Dono do servidor de Minecraft MercuryMC ...
 - 🤗 Veja todas as minhas redes sociais e do MercuryMC no link da biografia.
 
-[![Youtube Badge](https://yt3.ggpht.com/ytc/AAUvwnjywC55-clNDgkd447rS-ZMgrQ24Cn1dqPRafvgWQ=s176-c-k-c0x00ffffff-no-rj)(https://www.youtube.com/channel/UC-8inZ1yOj6iqsqLhsTVQtg/videos)]
