@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 😝 Meu nome é Julio e ...
 
 - 👽 Sou iniciante na programação...
-- 🧐 Atualmente aprendendo as linguagens de marcação HTML5 e CSS3.
+- 🧐 Atualmente aprendendo as linguagens de marcação HTML5 e CSS3 e a de programação JavaScript!
 - ⚡ Pretendo ter uma carreira muito grande a seguir e me dedicar a estudar muito!
 - 🤗 Em todas as minhas redes sociais o meu username é mazarottoo S2
 
