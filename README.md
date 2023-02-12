@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 - 🧐 Atualmente aprendendo as linguagens de marcação HTML5 e CSS3 e a de programação JavaScript!
 - ⚡ Pretendo ter uma carreira muito grande a seguir e me dedicar a estudar muito!
 
-# Redes Sociais
-- Instagram: <a href="https://instagram.com/mazarottoo">Clique aqui</a>
-- Twitter: <a href="https://twitter.com/guaranamz">Clique aqui</a>
-- Discord: Mazarottoo#6212
+# Tecnologias
+- HTML5, CSS3, JavaScript.
+
+# 🔗 Redes Sociais
+- 👉 Instagram: <a href="https://instagram.com/mazarottoo">Clique aqui</a>
+- 👉 Twitter: <a href="https://twitter.com/guaranamz">Clique aqui</a>
+- 👉 Discord: Mazarottoo#6212
