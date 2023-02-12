@@ -24,6 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Pretendo ter uma carreira muito grande a seguir e me dedicar a estudar muito!
 
 # Redes Sociais
-- Twitter: <a href="https://instagram.com/mazarottoo">Clique aqui</a>
-- Instagram:
+- Instagram: <a href="https://instagram.com/mazarottoo">Clique aqui</a>
+- Twitter: <a href="https://twitter.com/guaranamz">Clique aqui</a>
 - Discord: Mazarottoo#6212
