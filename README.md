@@ -17,16 +17,6 @@ Here are some ideas to get you started:
 
 # Olá, seja bem vindo ao meu Github! 👋
 
-😝 Meu nome é Julio e ...
+😝 Meu nome é Julio e sou estudande de programação e desenvolvimento web, pretendo ser um desenvolvedor Full-Stack.
 
-- 👽 Sou iniciante na programação...
-- 🧐 Atualmente aprendendo as linguagens de marcação HTML5 e CSS3 e a de programação JavaScript!
-- ⚡ Pretendo ter uma carreira muito grande a seguir e me dedicar a estudar muito!
-
-# Tecnologias
-- HTML5, CSS3, JavaScript.
-
-# 🔗 Redes Sociais
-- 👉 Instagram: <a href="https://instagram.com/mazarottoo">Clique aqui</a>
-- 👉 Twitter: <a href="https://twitter.com/guaranamz">Clique aqui</a>
-- 👉 Discord: Mazarottoo#6212
+<img href="https://upload.wikimedia.org/wikipedia/commons/c/c5/Html5_dise%C3%B1o_web.png" alt="HTML5">
