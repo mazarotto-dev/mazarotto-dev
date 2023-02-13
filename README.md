@@ -21,6 +21,11 @@ Here are some ideas to get you started:
     height: 10px;
     width: 10px;
   }
+  
+  img {
+    width: 10px;
+    height: 10px;
+  }
 </style>
 
 # Olá, seja bem vindo ao meu Github! 👋
