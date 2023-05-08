@@ -15,7 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Olá, seja bem vindo ao meu Github! 👋
-
-😝 Meu nome é Julio e sou estudande de programação e desenvolvimento web, pretendo ser um desenvolvedor Full-Stack.
-
