@@ -3,7 +3,7 @@
 - 📖 Estou aprendendo JavaScript
 - 🏳️‍🌈 Ele / Dele
 - 📩 Contate-me no e-mail: mazarottoop@gmail.com
-- 🌐 https://mazarottoo.io/redes-sociais
+- 🌐 https://mazarottoo.github.io/redes-sociais
 <hr>
 <img style="width: 350px;" src="https://i.postimg.cc/vTfZJMHq/html-css-js.png" alt="Julio-HTML5">
 <hr>
