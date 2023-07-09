@@ -3,7 +3,7 @@
 - 📖 Estou aprendendo ReactJS
 - 🏳️‍🌈 Ele / Dele
 - 📩 Contate-me no e-mail: mazarottoop@gmail.com
-- 🌐 https://mazarottoo.github.io/redes-sociais
+- 🌐 https:/mz-social.vercel.app
 <hr>
 <img style="width: 350px;" src="https://i.postimg.cc/vTfZJMHq/html-css-js.png" alt="Julio-HTML5">
 <hr>
