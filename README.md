@@ -12,6 +12,7 @@
   <img style="width: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img style="width: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img style="width: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img style="width: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <hr>
 <a href="https://instagram.com/mazarottoo_" target="_blank"><img src="https://i.postimg.cc/Qtn89CVn/instagram-github.png" alt="Julio-"></a>
