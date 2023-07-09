@@ -5,6 +5,8 @@
 - 📩 Contate-me no e-mail: mazarottoop@gmail.com
 - 🌐 https://mz-social.vercel.app
 <hr>
+
+## Ferramentas e tecnologias:
 <div>
   <img style="width: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img style="width: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
