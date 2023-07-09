@@ -1,6 +1,6 @@
 # Olá, Eu sou Julio Cesar, desenvolvedor web front-end! 👋
-- 💻 Atualmente desenvolvo em HTML5 e CSS3
-- 📖 Estou aprendendo JavaScript
+- 💻 Atualmente desenvolvo em HTML5, CSS3 e JavaScript
+- 📖 Estou aprendendo ReactJS
 - 🏳️‍🌈 Ele / Dele
 - 📩 Contate-me no e-mail: mazarottoop@gmail.com
 - 🌐 https://mazarottoo.github.io/redes-sociais
