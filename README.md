@@ -3,7 +3,7 @@
 - 📖 Estou aprendendo ReactJS
 - 🏳️‍🌈 Ele / Dele
 - 📩 Contate-me no e-mail: mazarottoop@gmail.com
-- 🌐 https://mz-social.vercel.app
+- 🌐 <a href="https://mz-redes.netlify.app">Site</a>
 <hr>
 
 ## Ferramentas e tecnologias:
