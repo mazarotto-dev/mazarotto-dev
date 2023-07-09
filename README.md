@@ -15,5 +15,10 @@
   <img style="width: 90px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 <hr>
-<a href="https://instagram.com/mazarottoo_" target="_blank"><img src="https://i.postimg.cc/Qtn89CVn/instagram-github.png" alt="Julio-"></a>
-<a href="https://linkedin.com/in/mazarottoo" target="_blank"><img  src="https://i.postimg.cc/05YZsBXF/Linkedln.png" alt="Julio-"></a>
+
+## Contatos: 
+<div>
+<a href="https://instagram.com/mazarottoo_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:mazarottoop@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/mazarottoo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
