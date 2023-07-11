@@ -1,6 +1,6 @@
 ### Olá, Eu sou Julio Cesar! 👋
 
-Tenho 17 anos esou desenvolvedor web front-end que atualmente atua na empresa [Guia Comercial e Turístico](https://guiacomercialeturistico.com.br) e no programa [São Paulo Mais Perto](https://saopaulomaisperto.com.br).
+Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [Guia Comercial e Turístico](https://guiacomercialeturistico.com.br) e no programa [São Paulo Mais Perto](https://saopaulomaisperto.com.br).
 <br/>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mazarottoo_)
@@ -14,6 +14,7 @@ Tenho 17 anos esou desenvolvedor web front-end que atualmente atua na empresa [G
   <summary>
     🌐 Ferramentas e tecnologias:
   </summary>
+  <br/>
   <div>
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
