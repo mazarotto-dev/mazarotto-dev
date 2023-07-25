@@ -3,7 +3,7 @@
 Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [Guia Comercial e Turístico](https://guiacomercialeturistico.com.br) e no programa [São Paulo Mais Perto](https://saopaulomaisperto.com.br).
 <br/>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mazarottoo_)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mazarottoo)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mazarottoop@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mazarottoo)
 
