@@ -20,7 +20,6 @@ Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img style="width: 50px;" src="https://i.ibb.co/XkfWm4G/nextjs-boilerplate-logo.png" alt="nextjs-boilerplate-logo" border="0">
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
 </details>
