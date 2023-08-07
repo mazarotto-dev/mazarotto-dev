@@ -20,6 +20,7 @@ Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img style="width: 50px;" src="https://i.ibb.co/XkfWm4G/nextjs-boilerplate-logo.png" alt="nextjs-boilerplate-logo" border="0">
     <img style="width: 50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
 </details>
@@ -27,6 +28,6 @@ Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [
 ### Análises
 <div>
   <a href="https://github.com/mazarottoo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazarottoo&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazarottoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazarotto-dev&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazarotto-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
