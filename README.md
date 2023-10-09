@@ -28,5 +28,4 @@ Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [
 <div>
   <a href="https://github.com/mazarottoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazarotto-dev&layout=compact&langs_count=7&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mazarotto-dev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
