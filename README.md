@@ -1,6 +1,6 @@
-### Olá, Eu sou Julio Cesar! 👋
+### Hello, I'm Julio Cesar! 👋
 
-Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [Guia Comercial e Turístico](https://guiacomercialeturistico.com.br) e no programa [São Paulo Mais Perto](https://saopaulomaisperto.com.br) e agora com o surgimento de uma nova oportunidade, o programa [Brasil Mais Perto](https://brasilmaisperto.com.br).
+I'm 17 years old and a front-end web developer currently working at [Guia Comercial e Turístico](https://guiacomercialeturistico.com.br) and the [São Paulo Mais Perto](https://saopaulomaisperto.com.br) program. Now, with the emergence of a new opportunity, I'm also involved in the [Brasil Mais Perto](https://brasilmaisperto.com.br) program.
 <br/>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mazarottoo)
@@ -12,7 +12,7 @@ Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [
 
 <details>
   <summary>
-    🌐 Ferramentas e tecnologias:
+    🌐 Tools and Technologies:
   </summary>
   <br/>
   <div>
@@ -24,7 +24,7 @@ Tenho 17 anos e sou desenvolvedor web front-end que atualmente atua na empresa [
   </div>
 </details>
 
-### Análises
+### Analysis
 <div>
   <a href="https://github.com/mazarottoo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazarotto-dev&layout=compact&langs_count=7&theme=dracula"/>
