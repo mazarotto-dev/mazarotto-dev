@@ -26,6 +26,6 @@ I'm 17 years old and a front-end web developer currently working at [Guia Comerc
 
 ### Analysis
 <div>
-  <a href="https://github.com/mazarottoo">
+  <a href="https://github.com/mazarotto-dev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mazarotto-dev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
